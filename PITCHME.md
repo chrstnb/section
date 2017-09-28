@@ -41,3 +41,8 @@ Find the person with the joke or punchline that matches yours
 
 ---
 ## Tell me about yourself & ask me a question
+
+---
+## Wrapping up
+- I'll be gone both days next week for the Grace Hopper conference :(
+- Please email me with questions/concerns/whatever! chrstn@uw.edu
