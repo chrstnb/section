@@ -28,7 +28,7 @@ Find the person with the joke or punchline that matches yours
 ---
 ## Ask me about...
 - Anything related to this course
-- Web programming & other parts oc CS
+- Web programming & other parts of CS
 - Majors/life at UW
 - Policy/economics/development & how I see CS fitting into them
 - Becoming a TA!
